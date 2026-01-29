@@ -21,7 +21,7 @@ This project reflects my practical understanding of DBMS concepts integrated wit
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote 
 “First make it work. Then make it right. Then make it fast. Then realize the bug was a missing semicolon.” 😄💻
 
 
